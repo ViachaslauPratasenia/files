@@ -185,6 +185,20 @@
         "Web",
         "Mobile"
       ]
+    },
+    {
+      "title": "Styling Flutter Apps Made Easy with Google Fonts",
+      "image": "https://raw.githubusercontent.com/ViachaslauPratasenia/files/main/project_images/blog_google_fonts.png",
+      "description": "Learn how to easily beautify your Flutter apps using Google Fonts, adding style and character to your user interfaces with minimal effort.",
+      "link": "https://medium.com/@viachaslau.pratasenia/styling-flutter-apps-made-easy-with-google-fonts-21b2e4a61a49",
+      "date": "December 26, 2023",
+      "tags": [
+        "Flutter",
+        "Theming",
+        "Google Fonts",
+        "Web",
+        "Mobile"
+      ]
     }
   ]
 }
