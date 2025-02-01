@@ -1,1 +1,1386 @@
-
+{
+  "md5": "",
+  "categories": [
+    {
+      "id": "7e13b2a7-823d-4aa2-bbb4-7fb7664e073f",
+      "name": "Music & Audio",
+      "description": "Music & Audio subscriptions",
+      "image": "https://cdn-icons-png.flaticon.com/512/1164/1164954.png",
+      "subscriptions": [
+        {
+          "id": "e28afebb-71c0-4f2c-8d0b-818dbe822059",
+          "name": "Spotify",
+          "link": "https://www.spotify.com",
+          "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZrYokmUkeOraeOjy1-yfOz5SVomnafiOw8w&s"
+        },
+        {
+          "id": "475b09b6-ee75-4bc6-98e9-2043454a9931",
+          "name": "Apple Music",
+          "link": "https://www.apple.com/music",
+          "logo": "https://play-lh.googleusercontent.com/mOkjjo5Rzcpk7BsHrsLWnqVadUK1FlLd2-UlQvYkLL4E9A0LpyODNIQinXPfUMjUrbE"
+        },
+        {
+          "id": "b5e19584-96b9-46c2-8589-c3a8ecf8b6c6",
+          "name": "Amazon Music",
+          "link": "https://music.amazon.com",
+          "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS05VMMVadvweVyF6zLSEL2Dw5KJ7QsDY4IpA&s"
+        },
+        {
+          "id": "9c6bbc30-d8bb-4f39-8f12-fe42479048ba",
+          "name": "YouTube Music",
+          "link": "https://music.youtube.com",
+          "logo": "https://play-lh.googleusercontent.com/76AjYITcB0dI0sFqdQjNgXQxRMlDIswbp0BAU_O5Oob-73b6cqKggVlAiNXQAW5Bl1g"
+        },
+        {
+          "id": "b3ea432c-87e3-4845-bdb6-92f4ad2d350b",
+          "name": "Tidal",
+          "link": "https://www.tidal.com",
+          "logo": "https://play-lh.googleusercontent.com/mB-qbXtW0wJWNy1JwUWISygarel8LbYHi5Uw7m7jX_TkhZpJG7TXG2thYpDFmuurocc"
+        },
+        {
+          "id": "52f58a2f-3769-494b-89c5-7690f57697bc",
+          "name": "Deezer",
+          "link": "https://www.deezer.com",
+          "logo": "https://play-lh.googleusercontent.com/F9uslCD68SA59MsRuLJ4vT0o1a6WccmFufSRtfCaIg12K45jySvUqOViLWNSURq-NXyE"
+        },
+        {
+          "id": "2e8a9f02-8a6d-419b-b499-1a7202037fe6",
+          "name": "Pandora",
+          "link": "https://www.pandora.com",
+          "logo": "https://play-lh.googleusercontent.com/jm0217jbZ0VJhGU7ecHHoi7MOcY7KMvxY5t1bIsc3KSVwLNbTwkwsfvtHvQkfabSmyNH"
+        },
+        {
+          "id": "e104cc65-2341-489c-8140-028ccdec6b71",
+          "name": "SoundCloud Go",
+          "link": "https://www.soundcloud.com/go",
+          "logo": "https://play-lh.googleusercontent.com/6FoFUmywGeblaF0iUTWb4EdH2SvXeOU_bgXQFRGhHTRiMWVlG8sAVN-BqjlWUJh3GR3a"
+        },
+        {
+          "id": "476c5ba4-e29c-4b5b-8fc1-226602990167",
+          "name": "Napster",
+          "link": "https://us.napster.com",
+          "logo": "https://play-lh.googleusercontent.com/GY6f9_oKmcWgrCQ2DVp0x8CTciZiTOcKws9OFAnImoNzr3A01qN67cQ-Sht_abeWdVA"
+        },
+        {
+          "id": "c40eb332-b425-4977-811a-9ffd22ef9eab",
+          "name": "iHeartRadio",
+          "link": "https://www.iheart.com",
+          "logo": "https://play-lh.googleusercontent.com/QfrPrdXhG9WQBuKmZpQMgfvByWR_YwV71ULwsTB_2UJ7kc3Q6fbYWxsu29T2Cfe0KAg"
+        },
+        {
+          "id": "20f19f2b-c97b-40e0-a9dc-b7807bbb29e1",
+          "name": "Яндекс.Музыка",
+          "link": "https://music.yandex.ru",
+          "logo": "https://play-lh.googleusercontent.com/sE1OicIt9uKWxJum-GYOZM3rtGaVxMy9_yOCesnAXHuj4f_VokMI6P4g6EU7bMf05-U"
+        },
+        {
+          "id": "08bf9ef2-3e5f-4765-aadd-95d35ff4fcef",
+          "name": "Звук (Zvooq)",
+          "link": "https://zvuk.com",
+          "logo": "https://play-lh.googleusercontent.com/b_tn5xAfHOWLUtbebn8zcV_33b1IUCD6QEwJBAa6FwV1b_Js-CrxQBAzfdzEDJg5x38"
+        },
+        {
+          "id": "22794d08-0e4a-402f-9dbf-9e114af07334",
+          "name": "VK Музыка (Boom)",
+          "link": "https://vk.com/music",
+          "logo": "https://play-lh.googleusercontent.com/_wEFY8FJOEFfFU8ULtWFDsNwgoA_p_883kfXVS6luamovlrCZhx7sAtcV6grsMw2Zg"
+        }
+      ]
+    },
+    {
+      "id": "343fadc3-cd5a-467d-ac92-659768f8d297",
+      "name": "Video",
+      "description": "Video subscriptions",
+      "image": "https://cdn-icons-png.flaticon.com/512/1164/1164954.png",
+      "subscriptions": [
+        {
+          "id": "550e8400-e29b-41d4-a716-446655440000",
+          "name": "Netflix",
+          "link": "https://www.netflix.com",
+          "logo": "https://play-lh.googleusercontent.com/TBRwjS_qfJCSj1m7zZB93FnpJM5fSpMA_wUlFDLxWAb45T9RmwBvQd5cWR5viJJOhkI"
+        },
+        {
+          "id": "bd7a977b-67e0-4bdf-9cd3-2b7fc6a8bbcd",
+          "name": "Disney+",
+          "link": "https://www.disneyplus.com",
+          "logo": "https://play-lh.googleusercontent.com/gXHdyj_9Dbyz3uJy1EnmLHMUpU33VeD0n6kObv6tzvBveWKDFZQt7yGrnM-L4FW-5P4"
+        },
+        {
+          "id": "f47ac10b-58cc-4372-a567-0e02b2c3d479",
+          "name": "Hulu",
+          "link": "https://www.hulu.com",
+          "logo": "https://play-lh.googleusercontent.com/4whGAVjZGrrlNxzheKAfBXrxggtyAb4euWLeQI8fDfVfdnFEZjE0DZTJ8DKoh64pqcIa"
+        },
+        {
+          "id": "9b93ccaa-84b0-471b-b1e6-b05e38a3c9fa",
+          "name": "Amazon Prime Video",
+          "link": "https://www.primevideo.com",
+          "logo": "https://play-lh.googleusercontent.com/r3eFMgQp7Z6mR_gI0AsCS3WJAHX2x6P6KnJoT1yvjO728OIRcOy9ukUN3TFZRd1LzwY"
+        },
+        {
+          "id": "8f14e45f-ceea-4b7e-a5f8-674a56451db3",
+          "name": "HBO Max",
+          "link": "https://www.hbomax.com",
+          "logo": "https://play-lh.googleusercontent.com/d9bssoNJ0XKRlVZQBx0CJZP7EDVqq0N4y62HX42AHorhC5U3sw4v1VGpF7TIAzvSPCY"
+        },
+        {
+          "id": "c56a4180-65aa-42ec-a945-5fd21dec0538",
+          "name": "Apple TV+",
+          "link": "https://www.apple.com/apple-tv-plus/",
+          "logo": "https://assets-prd.ignimgs.com/2022/09/22/service-apple-tv-plus-1663818541279.jpg"
+        },
+        {
+          "id": "16fd2706-8baf-433b-82eb-8c7fada847da",
+          "name": "YouTube Premium",
+          "link": "https://www.youtube.com/premium",
+          "logo": "https://play-lh.googleusercontent.com/lMoItBgdPPVDJsNOVtP26EKHePkwBg-PkuY9NOrc-fumRtTFP4XhpUNk_22syN4Datc"
+        },
+        {
+          "id": "9b0d1a17-3b12-4b42-a03a-828d62f3eaa4",
+          "name": "Peacock",
+          "link": "https://www.peacocktv.com",
+          "logo": "https://play-lh.googleusercontent.com/tmGaBmInLjXVZIb4lWe5-LXINRP2RiY77Vg_hOLu-rxXBsY9vKC78A_A3Pkyx9vNBE8"
+        },
+        {
+          "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+          "name": "Paramount+",
+          "link": "https://www.paramountplus.com",
+          "logo": "https://play-lh.googleusercontent.com/oi4GE8ulxHp4Y2xVzKu_WAMrgE4Jj4Kbdd7hAWLeoZTsMtC5bYTd2xcYhlvMk69pTFY"
+        },
+        {
+          "id": "38ba6b92-3bda-4c6d-90e7-7bb02e6762f0",
+          "name": "Twitch",
+          "link": "https://www.twitch.tv",
+          "logo": "https://play-lh.googleusercontent.com/QLQzL-MXtxKEDlbhrQCDw-REiDsA9glUH4m16syfar_KVLRXlzOhN7tmAceiPerv4Jg"
+        },
+        {
+          "id": "24d5f4ff-4ee3-45d8-b8d1-4e51882f9c11",
+          "name": "Crunchyroll",
+          "link": "https://www.crunchyroll.com",
+          "logo": "https://play-lh.googleusercontent.com/Fnor8mzNEsiWTfSTI_RXUmsaZW0eYw0RkIgIhSCphG4Y0ZgwC-zK2qzik-9VIxQDWQ"
+        },
+        {
+          "id": "c9bf5f4b-8493-4bde-bbed-38c338efb780",
+          "name": "Discovery+",
+          "link": "https://www.discoveryplus.com",
+          "logo": "https://play-lh.googleusercontent.com/XOYXQfbkJA9HMEGryVjl3sJnCSgvHWb9J4VQCO5qhGRj0Ue8bgw0kzuXTCAWSA41cZE"
+        },
+        {
+          "id": "b7f8e5c7-c82f-4448-a7b1-ff9a9b4d0d75",
+          "name": "Showtime",
+          "link": "https://www.showtime.com",
+          "logo": "https://play-lh.googleusercontent.com/g_sEGRaZaqDLguNESzQ0QULBg58ou1FlVCOBzNcMKwDXXzIiT88jpP49ZcXYg9JRvELf"
+        },
+        {
+          "id": "47e2e4b8-822f-4f3e-8b1f-3a79c4e5e2e4",
+          "name": "Starz",
+          "link": "https://www.starz.com",
+          "logo": "https://play-lh.googleusercontent.com/ZF0lnNTgrJqZ-WLubeF09m_gLt4IaL7189Wv0F6uwHmO7gJB3Om5bhanXdJci8FenNuS"
+        },
+        {
+          "id": "a9c477b6-1c59-4f07-ace2-4f8f477dc471",
+          "name": "Mubi",
+          "link": "https://mubi.com",
+          "logo": "https://play-lh.googleusercontent.com/JsBCte7adR00AAH2BuBA7uFMB2QfDgfprXMTiT4SPjA7Nk6GwpNjNSpZtGmdXfXKbw"
+        },
+        {
+          "id": "e684a21e-c691-4e6f-b4ad-7d6f579edbc6",
+          "name": "Roku Channel",
+          "link": "https://www.roku.com/whats-on/the-roku-channel",
+          "logo": "https://play-lh.googleusercontent.com/gh8XYB5Lqs0btp5QU7WM60dTXe8oXMCeIXHq6tGNe8ncL4wxjgLTyqPenv8MzlSWJfk"
+        },
+        {
+          "id": "d1e90f6e-bf32-43d9-9826-7747896d7dbb",
+          "name": "Иви (ivi)",
+          "link": "https://www.ivi.ru",
+          "logo": "https://play-lh.googleusercontent.com/_1JEQsXZCa02Im080KDWTNXe2ONCGUdPJD6_1kkp1cNwrogPTPQ3ALF5jw7hAAY0INc"
+        },
+        {
+          "id": "b0f342dc-89e6-4f56-bca4-588e8c2a1d73",
+          "name": "КиноПоиск HD",
+          "link": "https://hd.kinopoisk.ru",
+          "logo": "https://play-lh.googleusercontent.com/5czw6iycA8YhjI653GQdwnnmu8NNzEMXV32gZKoVCYZV6PQUAv_YV0uJ2PU1E-Jm9PE"
+        },
+        {
+          "id": "f5c56c0b-9f5a-4f50-9f6b-9bfe0cdd7615",
+          "name": "Okko",
+          "link": "https://okko.tv",
+          "logo": "https://play-lh.googleusercontent.com/YYh__GaOjogWlCJnhoUm7ImCQkrqgn5wC8aRLthRQ4K3OzEof_B4sMchjVCPutt46A"
+        },
+        {
+          "id": "3b7d63c6-cd2c-4bdf-b85f-158f0d4a3fb2",
+          "name": "START",
+          "link": "https://start.ru",
+          "logo": "https://play-lh.googleusercontent.com/TWMDNcnc7kZnp8xpz4e_TZWexkHZotitwCnxw5SqPkx-kIqBgoLQo6urato7LpWsbQ"
+        },
+        {
+          "id": "7a9ef747-b8d6-4e1a-ae58-f9d2b6c91fa9",
+          "name": "Wink",
+          "link": "https://wink.ru",
+          "logo": "https://play-lh.googleusercontent.com/oa49eJtW2vUgpt86WG4vyeNHjd7QsCnjBP8UbjKlZZbomfSz_-TOouPdNXIP-ZPG2mE"
+        },
+        {
+          "id": "f5be2394-bb2e-44a9-8391-1b23f5e8b3a7",
+          "name": "Amediateka",
+          "link": "https://www.amediateka.ru",
+          "logo": "https://play-lh.googleusercontent.com/CywGOIqM3wrSbfRhyVc3rG5aIFVNR6lv3tBbo_bJs72XVgydRu8bQPphxOoVaPEM9bY"
+        }
+      ]
+    },
+    {
+      "id": "b732acb0-fd68-4ccd-b680-eb5f87bca70d",
+      "name": "Games",
+      "description": "Games subscriptions",
+      "image": "https://cdn-icons-png.flaticon.com/512/1164/1164954.png",
+      "subscriptions": [
+        {
+          "id": "a3e2f1d5-8b6e-4d5a-b5a1-79f2e1d6b2d4",
+          "name": "Steam",
+          "link": "https://store.steampowered.com",
+          "logo": "https://play-lh.googleusercontent.com/52_DMY5417awaEgJf3_9mWgEuO2t1JfkGab8kM-LD6l5u6cGm_1-GsoQ_IyWFHdbkA"
+        },
+        {
+          "id": "b6e3f4c8-5f2a-48e6-b3a1-9f2b7a5c1d3e",
+          "name": "Epic Games Store",
+          "link": "https://www.epicgames.com/store",
+          "logo": "https://cdn2.unrealengine.com/Epic+Games+Node%2Fxlarge_whitetext_blackback_epiclogo_504x512_1529964470588-503x512-ac795e81c54b27aaa2e196456dd307bfe4ca3ca4.jpg"
+        },
+        {
+          "id": "d7e5b8f4-3c6a-49e7-8b2f-5a3e1c7d4f9b",
+          "name": "PlayStation Plus",
+          "link": "https://www.playstation.com/ps-plus",
+          "logo": "https://play-lh.googleusercontent.com/zi6QgTtIiAnGqQMizfoj2LnE85kzHyZlgTruSzJ7Zw_79NAmB3fhxuDegwxby7P0yw"
+        },
+        {
+          "id": "f9e4c7a2-5b3d-46e8-9f5a-8b2e4c1d6a7f",
+          "name": "Xbox Game Pass",
+          "link": "https://www.xbox.com/xbox-game-pass",
+          "logo": "https://play-lh.googleusercontent.com/hTjrbDdQccv4UPS4Va7kCg0P9Kwwvf3BxDgRpIAq7ZXQ7UvMaKwuZp9bBBgD7R2fE8o"
+        },
+        {
+          "id": "c1d2f5b8-4a9e-49d7-b8f2-3a5e4d6b7f9c",
+          "name": "GOG.com",
+          "link": "https://www.gog.com",
+          "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrSteMNRt8OIsECCx-eJCA7m1gJAYmLNAMrA&s"
+        },
+        {
+          "id": "b2d3f5a6-8f4c-4e9e-b5d7-6a3e5c1b2f9d",
+          "name": "Nvidia GeForce Now",
+          "link": "https://www.nvidia.com/en-us/geforce-now",
+          "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjQnPCY_I0L4_-bLIdU0CcuVkYTAPICicosQ&s"
+        },
+        {
+          "id": "d9e2c5b8-3a6e-49f7-b4d3-5f7e6a1d3f4b",
+          "name": "Google Stadia",
+          "link": "https://stadia.google.com",
+          "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSV1LmjN60Bq8Q0fpVN1_GZDEQThqfWPk6w3g&s"
+        },
+        {
+          "id": "e1d7f5a4-2b3d-48e9-8f5a-4b3e2d6c7a9f",
+          "name": "Ubisoft Connect",
+          "link": "https://store.ubi.com/us/ubisoft-connect",
+          "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdIJ0PtVLsPgDDePBBRLmBeo8v-yf9mtYPVg&s"
+        },
+        {
+          "id": "f2c3e5a6-7d8f-4b9e-a5c2-9f4e3d6a1b7c",
+          "name": "EA Play",
+          "link": "https://www.ea.com/ea-play",
+          "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWX89Uey-EvsEMhIV3d00ic5DhVaQM8rIUPg&s"
+        },
+        {
+          "id": "c7d2f3b8-9e4f-45d7-b3c5-2a7f6d1e4b9d",
+          "name": "Origin",
+          "link": "https://www.origin.com",
+          "logo": "https://cdn1.iconfinder.com/data/icons/metro-ui-dock-icon-set--icons-by-dakirby/512/Origins.png"
+        },
+        {
+          "id": "e6f5d3b8-2a4e-49c7-b8f2-4d7a5f1c3b9e",
+          "name": "Blizzard Battle.net",
+          "link": "https://www.blizzard.com",
+          "logo": "https://play-lh.googleusercontent.com/PuPFgmLam2WNyul3lUQywQT5Y5sPgL6VzWSUAdXOS1oIQwHYnrB_MyfXCOrR4LzZcjeP"
+        },
+        {
+          "id": "f9e2b5a8-3c7f-4e9d-b3f5-8a2e4c6d7b9c",
+          "name": "Humble Bundle",
+          "link": "https://www.humblebundle.com",
+          "logo": "https://www.worldlandtrust.org/wp-content/uploads/2018/04/humble-bundle-logo.png"
+        },
+        {
+          "id": "f2c5d3a8-7b6e-48f9-b3d5-4a9e7c2d5f3b",
+          "name": "Discord Nitro",
+          "link": "https://discord.com/nitro",
+          "logo": "https://play-lh.googleusercontent.com/0oO5sAneb9lJP6l8c6DH4aj6f85qNpplQVHmPmbbBxAukDnlO7DarDW0b-kEIHa8SQ"
+        },
+        {
+          "id": "b2f5d3c8-4a7e-49f9-b5d7-6f2a3e4b7d9c",
+          "name": "Itch.io",
+          "link": "https://itch.io",
+          "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpffwwJD_JEpWPyvma1Hm8u9CccefiMEMH1w&s"
+        }
+      ]
+    },
+    {
+      "id": "01078a92-324d-41e4-8fc5-c5231c6b029e",
+      "name": "Education",
+      "description": "Education subscriptions",
+      "image": "https://cdn-icons-png.flaticon.com/512/1164/1164954.png",
+      "subscriptions": [
+        {
+          "id": "b1e5f8c3-7c8e-4d9f-8a6d-1b7e9f3a5c9e",
+          "name": "Coursera",
+          "link": "https://www.coursera.org",
+          "logo": "https://play-lh.googleusercontent.com/H8crzfriK6t5b0N5wXykhxMjPopyWGDZPaMJlvWlAKb7EG-26KGu15P_RnFDinBw1Jc"
+        },
+        {
+          "id": "c2f3d9a7-6e7d-4e9f-b6a5-3d4e7f9c8b1d",
+          "name": "edX",
+          "link": "https://www.edx.org",
+          "logo": "https://play-lh.googleusercontent.com/y7_Fws2dAIXamBjYWganflbhHmfZys7KUWCvDnvAey346BMLfB3NvuR4niv07EosJ9lE"
+        },
+        {
+          "id": "d3a4f6b8-8b9e-49c7-b5d6-1c4f7e9d2a8f",
+          "name": "Udemy",
+          "link": "https://www.udemy.com",
+          "logo": "https://play-lh.googleusercontent.com/dsCkmJE2Fa8IjyXERAcwc5YeQ8_NvbZ4_OI8LgqyjILpXUfS5YhEcnAMajKPrZI-og"
+        },
+        {
+          "id": "e4b5f9c6-7d8e-4f9d-b3a1-5d8e2f9b7c1e",
+          "name": "Khan Academy",
+          "link": "https://www.khanacademy.org",
+          "logo": "https://play-lh.googleusercontent.com/TpK0AcjPn5-XDKgSZ5jAob1H7MsQuJILOMR4M4QYkTt5CBPgTJVr7mysrKM6Ia8SrX8"
+        },
+        {
+          "id": "f5c6d7a8-6e9d-48f7-b4c3-2e8f1b7a9d3e",
+          "name": "LinkedIn Learning",
+          "link": "https://www.linkedin.com/learning",
+          "logo": "https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw"
+        },
+        {
+          "id": "g6d7e8a9-5c4f-47d8-b2e1-3a6d5f9c7e4b",
+          "name": "Skillshare",
+          "link": "https://www.skillshare.com",
+          "logo": "https://play-lh.googleusercontent.com/M02X-AYfLq968Ve8ssAP46gQTa2uMVTKqlvzI-BMkUgnc5S6YLCfMf4PGas-LI4VFN6Q"
+        },
+        {
+          "id": "h7e8f9b2-4a3d-4e7d-b8f9-6d3e4a7c5b1e",
+          "name": "MasterClass",
+          "link": "https://www.masterclass.com",
+          "logo": "https://play-lh.googleusercontent.com/f9VJeBoXbPy6liy6hID6qv-uKNQ5U4q55FHz3akcdgYSwMmB2GRQwM-5rW2XTQvDdQfN"
+        },
+        {
+          "id": "i8f9d7e3-3b4c-4f6e-b9a8-5b2e3c6d4f7b",
+          "name": "Pluralsight",
+          "link": "https://www.pluralsight.com",
+          "logo": "https://play-lh.googleusercontent.com/AZW3Q9fPfsjhJncEpiAEsfteaz3pep88Tfy2-sjjf4Ib7wfM0M6B0TcRuW3-JJsS2oVz"
+        },
+        {
+          "id": "j9d8e7f4-2c5b-4d7e-b6f2-4a3e5b7c1d8f",
+          "name": "FutureLearn",
+          "link": "https://www.futurelearn.com",
+          "logo": "https://play-lh.googleusercontent.com/u4j-ZXQY2RDsHK5ptUQx-3NRhfd1UHtMXON2CsbuJjFdAofumMa5ej1iNqVY96CvRk4"
+        },
+        {
+          "id": "k0f9e8b5-1d6a-49e7-b8f3-2c4d3e7a5b6f",
+          "name": "Udacity",
+          "link": "https://www.udacity.com",
+          "logo": "https://play-lh.googleusercontent.com/ydobV9BjHVwnfRhMJQy_U1fpgbDGLxzoGyu-y5uez-ohkm2RnSK0XkmlNb_JCSkvw4U"
+        },
+        {
+          "id": "l1d7f9c6-0e8b-47f9-b2a4-6b3e7f1c9d4a",
+          "name": "Codecademy",
+          "link": "https://www.codecademy.com",
+          "logo": "https://play-lh.googleusercontent.com/sfcMEVWE3eIUF5uQ2fo4MeLBFNDGaftbN_t6_i6zbvE6XC0dOcizOMA9cfigSXq7_92b"
+        },
+        {
+          "id": "m2e8f1b7-9f4d-4e7c-b6a2-7d9e3f2c5b8f",
+          "name": "Treehouse",
+          "link": "https://teamtreehouse.com",
+          "logo": "https://ecs-static.teamtreehouse.com/assets/logo-232a207b24bcb8ab1fba7c1d85467f71d7b2d010d427c859987ed641706f45d9.png"
+        },
+        {
+          "id": "n3f9d7e4-8c5b-49d7-b9f1-5a7c3e6b2d4f",
+          "name": "Duolingo",
+          "link": "https://www.duolingo.com",
+          "logo": "https://play-lh.googleusercontent.com/tbTCHhShK62A6GTWMD8eU710ALwMyRksrf-b5-b9ITUyjoOht-HZu7Sgp-h3pf06VDuJ"
+        },
+        {
+          "id": "8d0af3f4-7984-4fae-bf32-5d7560f8b575",
+          "name": "LinguaLeo",
+          "link": "https://www.lingualeo.com",
+          "logo": "https://play-lh.googleusercontent.com/I6N2u3maH8xFnPO_jkAt0TqFAFAaGQpgOrMekBbrew-rcv0OZOIoejIo0I_kHWdWYxk"
+        }
+      ]
+    },
+    {
+      "id": "4e011dcc-1cb4-477d-b1aa-ba9a2fe49f3a",
+      "name": "Cloud & Storage",
+      "description": "Cloud & Storage subscriptions",
+      "image": "https://cdn-icons-png.flaticon.com/512/1164/1164954.png",
+      "subscriptions": [
+        {
+          "id": "c1e7f9d2-4a5b-48e7-b9f2-7d3e5f1c6b9a",
+          "name": "Google Drive",
+          "link": "https://www.google.com/drive",
+          "logo": "https://play-lh.googleusercontent.com/t-juVwXA8lDAk8uQ2L6d6K83jpgQoqmK1icB_l9yvhIAQ2QT_1XbRwg5IpY08906qEw"
+        },
+        {
+          "id": "d2f8c7b3-3b4c-4e8f-b9a2-5d6e4c7a8f1b",
+          "name": "Dropbox",
+          "link": "https://www.dropbox.com",
+          "logo": "https://play-lh.googleusercontent.com/WUcazXmUT97aoXa1TmB72z1RrP4shaBA4Te9vH5fcCHIPCBVjj5F6fGEPgNq6HXmXw"
+        },
+        {
+          "id": "e3a9d7f4-7c6a-49e7-b4f2-8b9e3f2d5c7a",
+          "name": "Microsoft OneDrive",
+          "link": "https://www.onedrive.com",
+          "logo": "https://play-lh.googleusercontent.com/6AWr-qrhGT0ohjw0koq3bM8GHEFg1gTurald4FjCDg2RulTp4y_VVsYWUtw7Fo6lsQo"
+        },
+        {
+          "id": "f4b8e9c5-2a4d-49f7-b3a1-7d5e4f1c8b9f",
+          "name": "iCloud",
+          "link": "https://www.icloud.com",
+          "logo": "https://cdn-1.webcatalog.io/catalog/icloud/icloud-icon-filled-256.png?v=1714773050945"
+        },
+        {
+          "id": "g5c9d8e6-1b7a-49e7-b5f2-4c3e2d7a6b9e",
+          "name": "Amazon Drive",
+          "link": "https://www.amazon.com/clouddrive",
+          "logo": "https://m.media-amazon.com/images/I/71XvjnALwfL.png"
+        },
+        {
+          "id": "h6d7e8f2-4a3c-4e9f-b9d2-5b7e3c1d9f4a",
+          "name": "Box",
+          "link": "https://www.box.com",
+          "logo": "https://play-lh.googleusercontent.com/kif95mwH33EVmCgo5HEtExiHMEotoOiMDNVfs2fmIb2LLbsfIrOsNmAlt8bq3xZ_Xuk"
+        },
+        {
+          "id": "i7e8f1c4-3b9d-4e7d-b4f2-9a6e3d7b5c1f",
+          "name": "pCloud",
+          "link": "https://www.pcloud.com",
+          "logo": "https://play-lh.googleusercontent.com/5C2U8bk9x9-SzmJqy4xb9urLqwY1JvX-kU4EEVL-bSSEjv1wyM7IT7o4svuAKbsHUoA"
+        },
+        {
+          "id": "j8f9d2e7-2c6a-4e8f-b5d7-1b9e3f4c6a7d",
+          "name": "MEGA",
+          "link": "https://mega.nz",
+          "logo": "https://play-lh.googleusercontent.com/LPje8jSAa7MHJt4xaJUXn-aYy7LfFyKbc0HJuuf3c5__k7_9DbOJkwlVHvrdQ--kDvYp"
+        },
+        {
+          "id": "k9a7f8d3-1b6e-49d7-b3f2-4e8f5c1d7a9e",
+          "name": "Backblaze",
+          "link": "https://www.backblaze.com",
+          "logo": "https://play-lh.googleusercontent.com/V6aa8RZxtqZztt5__mBZTJL_DEzhJxB-7thdAg-y6xnKossx_ZEti_8YbJYDPQf8uDg"
+        },
+        {
+          "id": "m1c9d7e5-8b6f-4e7d-b3f2-7d4e5f1a6c9e",
+          "name": "Sync.com",
+          "link": "https://www.sync.com",
+          "logo": "https://play-lh.googleusercontent.com/fdI2iiA5E1bdwtybsEVGTkEmsPy5Swk0XzFatBFKaeqppbe3derOrdFleVAMakBVsSfY"
+        },
+        {
+          "id": "n2d8f9c6-7b4a-49e7-b9d2-6a3e7f1c8b5f",
+          "name": "Tresorit",
+          "link": "https://tresorit.com",
+          "logo": "https://play-lh.googleusercontent.com/CgTTWgyZqIpNqVo3nm-Xr1rx78uFmy2k3L7q-DXjikYU1KP2yqZjCGJpbLV7vVhacuw"
+        },
+        {
+          "id": "o3e7f9b5-6c8a-48f7-b3d1-9b2f7e4c5a6d",
+          "name": "IDrive",
+          "link": "https://www.idrive.com",
+          "logo": "https://play-lh.googleusercontent.com/WF1gvMuCoUYj5ZFjX1b8krfyA141pl8M4iFRkKUwRXw7eL-28YA5chcnqY2Adk8KYMQ"
+        },
+        {
+          "id": "p4f9e8d7-5b3d-4e9f-b6a2-3c7e4f1a8b9d",
+          "name": "Degoo",
+          "link": "https://degoo.com",
+          "logo": "https://play-lh.googleusercontent.com/m5DfeHDBj44oYXgx_QKRzwcO7I14V_6HF-8iilEStSuzg0BB2IuyRiA9QPiLsprrRpfl"
+        },
+        {
+          "id": "q5a7f8e9-4c6a-49d7-b9f2-7d3e5c1f8b2a",
+          "name": "NordLocker",
+          "link": "https://nordlocker.com",
+          "logo": "https://play-lh.googleusercontent.com/7weJTVSoo6BWxoOKcJaY7eGmY6Uzp_kj1hE-hS_GbDvprS8dKCFwBD8Y4WU7enNBcP4"
+        }
+      ]
+    },
+    {
+      "id": "b5829de9-b3c2-4e29-b573-5da0964b117e",
+      "name": "Health & Fitness",
+      "description": "Health & Fitness subscriptions",
+      "image": "https://cdn-icons-png.flaticon.com/512/1164/1164954.png",
+      "subscriptions": [
+        {
+          "id": "f1e7d9c4-8b5f-49e7-b3d1-6e8f5a9c7b3a",
+          "name": "Fitbit Premium",
+          "link": "https://www.fitbit.com/premium",
+          "logo": "https://play-lh.googleusercontent.com/QhMCymTyxJbzRiwMBA-GYooS-nVKm3fHg2CSRyKHvhmC-e5vOibfST73y1MmScvtPw"
+        },
+        {
+          "id": "c2d8f9e6-3a7d-49f7-b8f2-5a7d3c9b8f1e",
+          "name": "MyFitnessPal",
+          "link": "https://www.myfitnesspal.com",
+          "logo": "https://play-lh.googleusercontent.com/DtR_W1lA1tKsbrr2DUo3TLNzqi9qRyxPqDuCyJeGLU6OMJKqg7CEqs45btRqvDFNDI3Y"
+        },
+        {
+          "id": "b3e9f7d5-4c8a-4e9f-b2d7-6a8d4e5f7b9c",
+          "name": "Nike Training Club",
+          "link": "https://www.nike.com/ntc-app",
+          "logo": "https://play-lh.googleusercontent.com/zgD7iittjyW1lOnGK7AoDuVfhv5nGWVseK4xVxMCOCajUHeSXontX7vGJL7l6UOd9w"
+        },
+        {
+          "id": "d4f9e8c6-5b9a-48e7-b4d1-7e3f5a9b6d8f",
+          "name": "Peloton",
+          "link": "https://www.onepeloton.com",
+          "logo": "https://play-lh.googleusercontent.com/Q4K531LEkV8kz-xCIXNEZ3E7d4H6uxKubkd6oN3i8BCi2NbWksT5xhmvrYeukb0Uutg"
+        },
+        {
+          "id": "a5c7d8e9-6d3f-49f7-b5c2-8f4d3a7b9f2e",
+          "name": "Strava",
+          "link": "https://www.strava.com",
+          "logo": "https://play-lh.googleusercontent.com/j-ZV144PlVuTVsLuBzIKyEw9CbFnmWw9ku2NJ1ef0gZJh-iiIN1nrNPmAtvgAteyDqU"
+        },
+        {
+          "id": "e6f8b9d7-7c3a-4e8f-b6d1-9a5f7d3c8e9b",
+          "name": "Apple Fitness+",
+          "link": "https://www.apple.com/apple-fitness-plus",
+          "logo": "https://upload.wikimedia.org/wikipedia/commons/6/63/Fitness_logo_watchos.png"
+        },
+        {
+          "id": "g7e9d7c8-8b5f-4e7d-b3d2-5f7d8a9c6b1e",
+          "name": "Calm",
+          "link": "https://www.calm.com",
+          "logo": "https://play-lh.googleusercontent.com/S76GphUu2pZa249td2Bb4XAhLcPRrFdL1zp_5qU1ouukvRq9r0-8jJ-CruaTtdT6g84"
+        },
+        {
+          "id": "h8d7f9e5-9a6b-4e8f-b2d7-4a9e6c5f7b3d",
+          "name": "Headspace",
+          "link": "https://www.headspace.com",
+          "logo": "https://play-lh.googleusercontent.com/y6ZZo_LKpI8sBXAHb9TMSfgoY96yVU0ecumaOb8hckSdvDzdssiQd2QW1cx1CrjvA4bQ"
+        },
+        {
+          "id": "i9e7f8d6-7b4a-49f7-b3d1-8d5f7a9c6e1b",
+          "name": "JEFIT",
+          "link": "https://www.jefit.com",
+          "logo": "https://play-lh.googleusercontent.com/bxaH4wqCsfG7zWPOosfC2YtEpzk7h2lbOVppK7n1SyWaGiuH8paWj-CyMbHX6MeGa_8"
+        },
+        {
+          "id": "j0f9e7b8-6c3d-48e7-b2d1-7a5f6d3c9e8b",
+          "name": "FitOn",
+          "link": "https://www.fitonapp.com",
+          "logo": "https://play-lh.googleusercontent.com/3F1LsBjZ2p-UjP2hwJa--jk_5gzHHezaQ8n381RI4u11DSb647zt07UVUNO4ZHVtdQ"
+        },
+        {
+          "id": "k1d8f7e9-5b4f-49e7-b4d1-9f7a5e3c8b6d",
+          "name": "8fit",
+          "link": "https://www.8fit.com",
+          "logo": "https://play-lh.googleusercontent.com/dyJyF3MfJqgzuDJPjm-bwQiDavJRV-3Gt96AWvxDNXLfhZUiZJaTcmp-14Mk9xM_CQ"
+        },
+        {
+          "id": "l2e9f8d7-4c6a-4e9f-b5d7-6f7d3a9c8e1b",
+          "name": "Seven",
+          "link": "https://seven.app",
+          "logo": "https://play-lh.googleusercontent.com/cwfvTW3r4wFr7eexyiviPzXphBlpzEB4X-vaobdI0C-s74hV5wkI605ZbhQnhdxKeevA"
+        },
+        {
+          "id": "m3f7e9d8-3b7f-49e7-b3d1-8f5e7d9a6c4b",
+          "name": "Sworkit",
+          "link": "https://www.sworkit.com",
+          "logo": "https://play-lh.googleusercontent.com/KyP6tycYadkIuQY-w_4c0_feiK5qw9ftVOGn9rF-Mo0WmUxKgjDeKaIcgeAW7xp0a7s"
+        },
+        {
+          "id": "n4d8f9e6-2a5f-4e7d-b3f1-9a5f7c8d6e1b",
+          "name": "Noom",
+          "link": "https://www.noom.com",
+          "logo": "https://play-lh.googleusercontent.com/1N-ub7jErxCHtSIanMlAbQcALjjHePAoE5BW3UETji87V_5PZb1El9g-OuL-_NNmSw"
+        },
+        {
+          "id": "o5e9d7c8-1b6f-49f7-b5d1-7e4d3f6a9c2b",
+          "name": "WW (Weight Watchers)",
+          "link": "https://www.weightwatchers.com",
+          "logo": "https://play-lh.googleusercontent.com/kZ83YH4bsugJR_1F5zQgG9t6IOTWuYkO-Z92Q11KLM75wPNFzfjWJeH1VHX61FARnGM"
+        }
+      ]
+    },
+    {
+      "id": "3f916780-729f-4ba3-ad6f-282ad9b0a337",
+      "name": "Software and Utilities",
+      "description": "Software and Utilities subscriptions",
+      "image": "https://cdn-icons-png.flaticon.com/512/1164/1164954.png",
+      "subscriptions": [
+        {
+          "id": "c1f9e8b6-2a7f-4d8f-b7d1-5e4c7a9f2b3e",
+          "name": "Microsoft 365",
+          "link": "https://www.microsoft.com/microsoft-365",
+          "logo": "https://play-lh.googleusercontent.com/94uR6O49JmqiMMMsrfoDlWvWkqLf6rfE25zOH2BWnuzozzlfY1qnKaNzuQbUcupcpX9L"
+        },
+        {
+          "id": "d2e8f7c9-3b6a-4e9f-b5d7-8f3e2d7b6a1f",
+          "name": "Adobe Creative Cloud",
+          "link": "https://www.adobe.com/creativecloud",
+          "logo": "https://play-lh.googleusercontent.com/9XplOljjL9Nqp-Pf4x1mWW4uei1gnODy_dSf0eK3kqk8cR3rjGNgoL3eu0godsjFMgbw"
+        },
+        {
+          "id": "e3f7d9b8-4c5d-49e7-b6f2-7a9d5c4e8b6f",
+          "name": "Norton 360",
+          "link": "https://us.norton.com",
+          "logo": "https://play-lh.googleusercontent.com/X6Ugn4Ls1yut7CUVs5AXap7CNpNYLOpJPDLo0G8GprU98n56LJ-x89mGI7Vk3b_YXg"
+        },
+        {
+          "id": "f4d8e9c7-5b7a-4e8f-b9d2-4a5f3c9b7d8e",
+          "name": "McAfee Total Protection",
+          "link": "https://www.mcafee.com",
+          "logo": "https://play-lh.googleusercontent.com/g5TgtCP1qhuMgH9IAtBCL0aiQ33cFAxmIEf1npp7Ez61e6wtxKG-Bpu4Wql_r0y9DBc"
+        },
+        {
+          "id": "a5c9d7e6-6a4b-4e9f-b2d1-9f7e3d8b5c1f",
+          "name": "Bitdefender Total Security",
+          "link": "https://www.bitdefender.com/solutions/total-security.html",
+          "logo": "https://play-lh.googleusercontent.com/iJ4nhjiExeaowbVd8-rXfVafEa3HUykm_UGlAPc18H9wB5J9r4FiJDcmWBdnH3OCuw0d"
+        },
+        {
+          "id": "b6d7f8c9-7c8a-49e7-b3f2-6d9e2b4c7a8f",
+          "name": "Kaspersky Total Security",
+          "link": "https://www.kaspersky.com/total-security",
+          "logo": "https://play-lh.googleusercontent.com/g-o1ocOunYYh-zhJl6uzST_Bqla67KReOpvuM0Bkj6RwToyN-syi3OGVBIEBzxrFM8SO"
+        },
+        {
+          "id": "c7e8f9d2-8b6f-4e9f-b6d1-5a4e3f7c8b9f",
+          "name": "Malwarebytes Premium",
+          "link": "https://www.malwarebytes.com",
+          "logo": "https://play-lh.googleusercontent.com/A5Y2muy9zW4w_cQXKruYg8ONE4wOpAIHXxJETh-RSeSRA9GKUKMfnuLaDcXDSm7ueA"
+        },
+        {
+          "id": "d8f9e7c3-9a7b-49e7-b3f2-4c5d3a8e7b6f",
+          "name": "WinRAR",
+          "link": "https://www.win-rar.com",
+          "logo": "https://play-lh.googleusercontent.com/Sqi01LsQkmQ7-0dV9rJwD4pnYN4hm6TqW__ed6Xnq1FYFau1lIJKWwemvrq_eySjLnCB"
+        },
+        {
+          "id": "e9d7f8b4-2b6f-49e7-b9f2-7a5f3c6d8e1b",
+          "name": "7-Zip",
+          "link": "https://www.7-zip.org",
+          "logo": "https://e1.pngegg.com/pngimages/560/219/png-clipart-logos-01-icons-and-7zip-512-7zip-icon-thumbnail.png"
+        },
+        {
+          "id": "f0c7d8e6-3a7b-49f7-b6d2-9b8f2e7c1a5d",
+          "name": "LastPass",
+          "link": "https://www.lastpass.com",
+          "logo": "https://play-lh.googleusercontent.com/BPgJq2T40gw219T9wcXPld0urrii1L9WwGZ0xovChB7fy-KFfVlKPE6oT5D7lIeQRecJ"
+        },
+        {
+          "id": "a1d9e7b8-4c6f-4e9f-b3f2-5d7e4a8b7c6f",
+          "name": "1Password",
+          "link": "https://1password.com",
+          "logo": "https://play-lh.googleusercontent.com/RyPWI5dSfKqMUnuEYqMqQPMLv8AvKehIhut1yIKJU91HWpvtUHPj1rzn_UHwpEqH2a0"
+        },
+        {
+          "id": "b2e8f9c7-5b7a-49e7-b4d1-8f6a3d7c9b5f",
+          "name": "Dashlane",
+          "link": "https://www.dashlane.com",
+          "logo": "https://play-lh.googleusercontent.com/WrBKyq-_LVvhmUypkgypSECUenW1o-I-yt8nnFqn0tiOSucoP_9taibi1DiHiUOeW1Q"
+        },
+        {
+          "id": "c3f7d9e6-6a8b-49f7-b9d2-3a7d4c8e6b9f",
+          "name": "NordVPN",
+          "link": "https://nordvpn.com",
+          "logo": "https://play-lh.googleusercontent.com/G166NGtIsLp_UdpDjC1FF6dooIgd83fs2lstSI7mhW06q7gmiE1cw4BZ16OCX0WokPE"
+        },
+        {
+          "id": "d4e8f7c9-7b9a-4e9f-b6f2-8d5c3a7b9e6f",
+          "name": "ExpressVPN",
+          "link": "https://www.expressvpn.com",
+          "logo": "https://play-lh.googleusercontent.com/CnGsOmhIKfo1_IAnCUxAYXBaxkJ11rQXqPAGU_t29S6nVsrzTx-3OjMWFf2fk_b7u3g"
+        },
+        {
+          "id": "e5f9d8b7-8c6f-49e7-b2d1-9f7e3c6a8d9f",
+          "name": "CyberGhost",
+          "link": "https://www.cyberghostvpn.com",
+          "logo": "https://play-lh.googleusercontent.com/mY9EidYNw86nCKpAvQN9DeVOi5iUoCHOSk1pAt-d5WS1UGDkfiooI5Ic3feVbrFvdJI"
+        },
+        {
+          "id": "f6d7e9c8-9a7b-49e7-b3f2-6a4d3b8c7e9f",
+          "name": "Surfshark",
+          "link": "https://surfshark.com",
+          "logo": "https://play-lh.googleusercontent.com/e3sEj1IDr7ULwNdB7LjNt0hSFBk8omK72yHt_4FPI8W6kH-sdkeEVl8piOf_e7mwW3c"
+        },
+        {
+          "id": "a7e8f9d2-2a5b-4e9f-b6f2-7d3f4c9a6b8f",
+          "name": "ProtonVPN",
+          "link": "https://protonvpn.com",
+          "logo": "https://play-lh.googleusercontent.com/hferjPeJ9_aWi_r5t8L0qOAwU4ZWAyduYmRkYodJOylRKwOxPI_117GzVSkAnhaNOw"
+        },
+        {
+          "id": "b8f9d7e3-3b6f-49e7-b9d2-4a7e5c8b7f9d",
+          "name": "Private Internet Access",
+          "link": "https://www.privateinternetaccess.com",
+          "logo": "https://play-lh.googleusercontent.com/pjak9VEb8yALzrZnL6fAA8DlvR3GDwmyHwXK8kcl3PnUN9Aonr3CMQSnZZ0HzSONDWY"
+        },
+        {
+          "id": "c2f3d9b8-4e7c-4d7e-b8d2-9a3f5c7a9b6f",
+          "name": "Avast Premium Security",
+          "link": "https://www.avast.com/premium-security",
+          "logo": "https://play-lh.googleusercontent.com/dEShw3iV5-j-Gzc0xxBQ2AXMzvE-dBJCZaqF2K3fB6XvKIZyF1T9EBhkYFIBfRzUNg"
+        },
+        {
+          "id": "b7f9d8e2-5c4f-49e7-b2d1-7a6f3e9c8b2d",
+          "name": "Paragon Backup & Recovery",
+          "link": "https://www.paragon-software.com/home/br-free",
+          "logo": "https://www.paragon-software.com/wp-content/uploads/2017/12/Paragon-Logo-square-gradient.png"
+        },
+        {
+          "id": "b3d8f9e6-7a5f-49e7-b6d2-8f4c3a9b8f6d",
+          "name": "Parallels Desktop",
+          "link": "https://www.parallels.com/products/desktop",
+          "logo": "https://www.parallels.com/static/pl/fileadmin/res/img/about/brand/logo-full-color-on-white.jpg"
+        },
+        {
+          "id": "a4d7f9c8-3b6f-49e7-b2d1-7a5c8e9f6b2d",
+          "name": "CCleaner",
+          "link": "https://www.ccleaner.com",
+          "logo": "https://play-lh.googleusercontent.com/qAQS7gURRqJ_J-x6xfDY0LyBdz5fT5bt3lmMikOqLzuYFHnm26LP0Se3bdgD87ULH4o"
+        }
+      ]
+    },
+    {
+      "id": "0693a1ff-f945-4ad6-b240-4d4e349cef31",
+      "name": "Professional",
+      "description": "Professional subscriptions",
+      "image": "https://cdn-icons-png.flaticon.com/512/1164/1164954.png",
+      "subscriptions": [
+        {
+          "id": "a1f7d9c8-6b4f-49e7-b2d1-7a8f6c9b7d3e",
+          "name": "Slack",
+          "link": "https://slack.com",
+          "logo": "https://play-lh.googleusercontent.com/mzJpTCsTW_FuR6YqOPaLHrSEVCSJuXzCljdxnCKhVZMcu6EESZBQTCHxMh8slVtnKqo"
+        },
+        {
+          "id": "b2e8f7d9-3c7a-49e7-b5d2-9f6a7e8b1c4f",
+          "name": "Microsoft Teams",
+          "link": "https://www.microsoft.com/microsoft-teams",
+          "logo": "https://play-lh.googleusercontent.com/jKU64njy8urP89V1O63eJxMtvWjDGETPlHVIhDv9WZAYzsSxRWyWZkUlBJZj_HbkHA"
+        },
+        {
+          "id": "c3f9d7e8-4a6f-49e7-b4d1-8f7d9c2a7b5f",
+          "name": "Zoom",
+          "link": "https://zoom.us",
+          "logo": "https://play-lh.googleusercontent.com/yZsmiNjmji3ZoOuLthoVvptLB9cZ0vCmitcky4OUXNcEFV3IEQkrBD2uu5kuWRF5_ERA"
+        },
+        {
+          "id": "d4e8f9c7-2b5f-49e7-b6d1-7a5f3e9d6c8f",
+          "name": "Trello",
+          "link": "https://trello.com",
+          "logo": "https://play-lh.googleusercontent.com/Tt-6ZaQDUAjfSNSeLz4XyYkPsEQfVVp0lBtwrnuyqubhCna0LKu5OZxKgegBJIrEhz8"
+        },
+        {
+          "id": "e5f7d9c6-8c7a-49e7-b3d1-6a8f7b9e4c2f",
+          "name": "Asana",
+          "link": "https://asana.com",
+          "logo": "https://play-lh.googleusercontent.com/SWbS8z3NqFVHCEQc_6l-ZDdDj5qPGrWSK8hEWRSPHYm9s8958y6nTnoLolVHXlgKfXw"
+        },
+        {
+          "id": "f6e9f7d8-5b4a-49e7-b2d1-9a6f7e8c1d5f",
+          "name": "Monday.com",
+          "link": "https://monday.com",
+          "logo": "https://play-lh.googleusercontent.com/zVNXJttU2hCZQtdhQHrMHbQx7zbh7ganOE6YPbE0KypiTXNhgEcP4cP2NMz7cCln4Q"
+        },
+        {
+          "id": "a7f8d9e6-9b4f-49e7-b6d1-8f3c7e2b5f9d",
+          "name": "Basecamp",
+          "link": "https://basecamp.com",
+          "logo": "https://play-lh.googleusercontent.com/Kzl0tRihUiiaX2H3a_zb8iQMTKfEuG-MZr3yx4E90-vTRBKfgUQM8bVmd6r7oAHAIQ"
+        },
+        {
+          "id": "b8e9f7c6-3a5f-49e7-b4d1-7a8f5e9d6c3f",
+          "name": "Notion",
+          "link": "https://www.notion.so",
+          "logo": "https://play-lh.googleusercontent.com/j1tQGfT5DWRoN5JTK_giCY4McEDJWCZ9Z595S6455bgvOe_KjnrlNbIh1UjMV8q8viE"
+        },
+        {
+          "id": "c9f7d8e5-4b6a-49e7-b5d1-9f3e2c7a8d6f",
+          "name": "Airtable",
+          "link": "https://airtable.com",
+          "logo": "https://play-lh.googleusercontent.com/Kv6IIya1TLiCSQCHOz1ihsxuBfSeriuVd8Qpsgby6RFjiWzIJeTnoOWEzHwzttHlhmGM"
+        },
+        {
+          "id": "d0e9f8d7-7c4f-49e7-b3d1-8a5f6e7c9b2f",
+          "name": "Jira",
+          "link": "https://www.atlassian.com/software/jira",
+          "logo": "https://play-lh.googleusercontent.com/_AZCbg39DTuk8k3DiPRASr9EwyW058pOfzvAu1DsfN9ygtbOlbuucmXaHJi5ooYbokQX"
+        },
+        {
+          "id": "e1f8d9c6-5b7a-49e7-b2d1-7f6a8e9c3d5f",
+          "name": "Confluence",
+          "link": "https://www.atlassian.com/software/confluence",
+          "logo": "https://play-lh.googleusercontent.com/-aex9dK8-hchgNFf5lsMCy0_9sl6kK_JIS4nh-6p3_NG9w2BwASOTRsNg-tgnONg8Q"
+        },
+        {
+          "id": "f2e9f7d8-2a6f-49e7-b4d1-6a8f5e9c7b1f",
+          "name": "Dropbox Business",
+          "link": "https://www.dropbox.com/business",
+          "logo": "https://play-lh.googleusercontent.com/WUcazXmUT97aoXa1TmB72z1RrP4shaBA4Te9vH5fcCHIPCBVjj5F6fGEPgNq6HXmXw"
+        },
+        {
+          "id": "b4e9f7d8-3c7a-49e7-b2d1-8f7c3e5b9f6f",
+          "name": "Microsoft 365 Business",
+          "link": "https://www.microsoft.com/en-us/microsoft-365/business",
+          "logo": "https://play-lh.googleusercontent.com/94uR6O49JmqiMMMsrfoDlWvWkqLf6rfE25zOH2BWnuzozzlfY1qnKaNzuQbUcupcpX9L"
+        },
+        {
+          "id": "c5f7d8e6-6b4f-49e7-b3d1-7a8f2e9c5d9f",
+          "name": "Salesforce",
+          "link": "https://www.salesforce.com",
+          "logo": "https://play-lh.googleusercontent.com/8zeY2rMMqLfUYBGebRWALtqxcE00WK2y43inlWRSEbjiZJs_vW1N1r4CoIF-FCQ3wvU"
+        },
+        {
+          "id": "d6e9f8d7-5c7a-49e7-b4d1-9f7e8c6b2a3f",
+          "name": "HubSpot",
+          "link": "https://www.hubspot.com",
+          "logo": "https://play-lh.googleusercontent.com/4ciMOQ0XcqbChkij9FV1HPShKHfCJwm5Ph5fypIG6veCOyAvFUmk7PCZgso_ub8nLw"
+        },
+        {
+          "id": "e7f8d9c6-4b6f-49e7-b2d1-8a5f7c9b6d2f",
+          "name": "Zendesk",
+          "link": "https://www.zendesk.com",
+          "logo": "https://play-lh.googleusercontent.com/Zgz0aJ8V-d3E_5MMc-D_Ptz2LrcFTFSLqQoYH-vjzmKr7N12Omo8O-Xoc8-LyMO-1w"
+        },
+        {
+          "id": "f8e9f7d8-9b5f-49e7-b3d1-7a6f9e8c2d3f",
+          "name": "QuickBooks",
+          "link": "https://quickbooks.intuit.com",
+          "logo": "https://play-lh.googleusercontent.com/osZUTqgZ0Q-eyAVM4vmRruzSZbA4ywzYylFcHs5onw6XQjLjnKrURj9oPQn6EDtSGHWG"
+        },
+        {
+          "id": "a9f8d9e7-2b6f-49e7-b4d1-6a8f7e3c9d5f",
+          "name": "FreshBooks",
+          "link": "https://www.freshbooks.com",
+          "logo": "https://play-lh.googleusercontent.com/EMobDJKabP1eY_63QHgPS_-TK3eRfxXaeOnERbcRaWAw573iaV74pXS9xOv997dRZtM"
+        },
+        {
+          "id": "b0e9f7d8-8c5f-49e7-b2d1-8f7c5e9b7a3f",
+          "name": "Xero",
+          "link": "https://www.xero.com",
+          "logo": "https://play-lh.googleusercontent.com/VX1WlbpWZDSmPLhsBwJ8H6GYnBQD2MQiAr7FgC3KpLhN8NeVx7t_oD9MxSymGiryDg"
+        },
+        {
+          "id": "c1f8d9e6-3a7f-49e7-b6d1-9a8f3c7e5d2f",
+          "name": "Toggl",
+          "link": "https://toggl.com",
+          "logo": "https://play-lh.googleusercontent.com/PeblLXajnpQMBdnzHCQ9yRh6IZ1iOM7qqJkp306uOYlYq8djKFs2vTLO5YO265MPmcM"
+        },
+        {
+          "id": "c2f9e8d7-4b7f-49e7-b4d1-8a7f9c5d6b1f",
+          "name": "Figma",
+          "link": "https://www.figma.com",
+          "logo": "https://play-lh.googleusercontent.com/efwNlvQ3pch_-hZ9xeHf6YF-f_rHzQQo21IVevPLOxpzSVfxuVKom2_7C6axFbC-3rU"
+        },
+        {
+          "id": "d3e8f9d8-5c6f-49e7-b3d1-7f8e9c6d7a4f",
+          "name": "Sketch",
+          "link": "https://www.sketch.com",
+          "logo": "https://play-lh.googleusercontent.com/NIhaPLVMl69snWk7IOWADeBwU-8FG5VL1q41_fmd6TVa4FEIqXQw3Ar3BovrXvza2Q"
+        },
+        {
+          "id": "e4f7d9e7-6b5a-49e7-b2d1-9a8f7e6c5b3d",
+          "name": "InVision",
+          "link": "https://www.invisionapp.com",
+          "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6tpzQW-UHflig48IIvO2E5b0r54jiJYuChkvkOVwB6NpiYztZf8tJp9WxC8NfeB25YWk&usqp"
+        },
+        {
+          "id": "f5e9f8c6-7c4b-49e7-b4d1-8f9a7c6b3d1f",
+          "name": "Adobe XD",
+          "link": "https://www.adobe.com/products/xd.html",
+          "logo": "https://play-lh.googleusercontent.com/kaox1VteLsWAuNxPxhm8t4llaoyFhxzDjo9g4Hdf92bKdT_Sn6Yrdku6rApuc5ktirw"
+        },
+        {
+          "id": "g6f8d9b7-8c5f-49e7-b2d1-7a8f6c5e9b2f",
+          "name": "Canva Pro",
+          "link": "https://www.canva.com/pro",
+          "logo": "https://play-lh.googleusercontent.com/eo7xSwLbYxrwB2B5dEPYmyjP-Pl5957ssemLT-rBqc8fNLcGoXs_pM9BCPzLX9aBRYM"
+        }
+      ]
+    },
+    {
+      "id": "b47e99c1-51b2-4539-94a0-13d7c5a3e96b",
+      "name": "Reading",
+      "description": "Reading subscriptions",
+      "image": "https://cdn-icons-png.flaticon.com/512/1164/1164954.png",
+      "subscriptions": [
+        {
+          "id": "7c9e6b5a-2d3f-4a1e-b8c7-9d5e2f1a3b4c",
+          "name": "MyBook",
+          "link": "https://mybook.ru",
+          "logo": "https://play-lh.googleusercontent.com/9sRnojaEPTSvQ6A9L4x5IiExbiG7wY8TV5J9_AsWjOLrAxeYsAGVA-cfMQEIaoX48w"
+        },
+        {
+          "id": "1f2e3d4c-5b6a-7f8e-9d0c-1b2a3c4d5e6f",
+          "name": "Bookmate",
+          "link": "https://bookmate.com",
+          "logo": "https://play-lh.googleusercontent.com/bJ_qcXuUZ7U1mrtYXOa01-2Ym8oJiAg_peK3eyFAK6XOCZO7mVvUyCurrej3gQs19g"
+        },
+        {
+          "id": "9a8b7c6d-5e4f-4a3b-2c1d-0e9f8a7b6c5d",
+          "name": "Kindle Unlimited",
+          "link": "https://www.amazon.com/kindle-unlimited",
+          "logo": "https://play-lh.googleusercontent.com/48wwD4kfFSStoxwuwCIu6RdM2IeZmZKfb1ZeQkga0qEf1JKsiD-hK3Qf8qvxHL09lQ"
+        },
+        {
+          "id": "4d5e6f7g-8h9i-0j1k-2l3m-4n5o6p7q8r9s",
+          "name": "Apple Books+",
+          "link": "https://www.apple.com/apple-books",
+          "logo": "https://daisy.org/wp-content/uploads/2020/07/apple-books-app-icon.png"
+        },
+        {
+          "id": "2b3c4d5e-6f7g-8h9i-0j1k-2l3m4n5o6p7q",
+          "name": "Scribd",
+          "link": "https://www.scribd.com",
+          "logo": "https://play-lh.googleusercontent.com/Ru_eiWyY8TYQepcw30fCi5ndjDvysJwK_Vib2eX-W2EKb_uQUWiBbrNRFyD_L-IFItPm"
+        },
+        {
+          "id": "8e9f0a1b-2c3d-4e5f-6g7h-8i9j0k1l2m3n",
+          "name": "ЛитРес",
+          "link": "https://www.litres.ru",
+          "logo": "https://play-lh.googleusercontent.com/r64BTPDUDP_y0vFet1pmshbnKauTKXWuzJmXdXLsQ0wc9vs_ATos5hY_3jMO8R2xbg"
+        },
+        {
+          "id": "5h6i7j8k-9l0m-1n2o-3p4q-5r6s7t8u9v0w",
+          "name": "Storytel",
+          "link": "https://www.storytel.com",
+          "logo": "https://play-lh.googleusercontent.com/ufvs48ZAzaZLOsW5l3Rw3xrSwKtkt0FEGfLWYd8Dmmw2bJJP_faRr0WesNq_rCqGCg"
+        },
+        {
+          "id": "3q4r5s6t-7u8v-9w0x-1y2z-3a4b5c6d7e8f",
+          "name": "PressReader",
+          "link": "https://www.pressreader.com",
+          "logo": "https://play-lh.googleusercontent.com/Xc13xwycIN3eeTwSl5TUrnL8-Njb2sBlX7loDOWepjBdrmG14En7nXcu1C9REF4Nrg"
+        },
+        {
+          "id": "0x1y2z3a-4b5c-6d7e-8f9g-0h1i2j3k4l5m",
+          "name": "Blinkist",
+          "link": "https://www.blinkist.com",
+          "logo": "https://play-lh.googleusercontent.com/JwvZpmpuUpw-QqSAzqARVDiuZZBAX-M8BhX21v4ppSzNEPXaMAjgJ5pS-Rvti-nwmw"
+        },
+        {
+          "id": "6n7o8p9q-0r1s-2t3u-4v5w-6x7y8z9a0b1c",
+          "name": "Medium",
+          "link": "https://medium.com",
+          "logo": "https://play-lh.googleusercontent.com/5uMPvygGoe3Y6aLKjdH1bxf567RA2mvY6dIsGocU5LQIyb8YjWkkuQt-m99ITIAwGWsi"
+        },
+        {
+          "id": "2d3e4f5g-6h7i-8j9k-0l1m-2n3o4p5q6r7s",
+          "name": "Readly",
+          "link": "https://www.readly.com",
+          "logo": "https://play-lh.googleusercontent.com/l55jqaSB7Fs8HDKiQt3ejbc8QQFtqmkv7zt-l5TX79ivMx7RucFU9mfciJ--mN_WLdA"
+        }
+      ]
+    },
+    {
+      "id": "b47e99c1-51b2-4539-94a0-13d7c5a3e96b",
+      "name": "Social",
+      "description": "Social subscriptions",
+      "image": "https://cdn-icons-png.flaticon.com/512/1164",
+      "subscriptions": [
+        {
+          "id": "1a2b3c4d-5e6f-7g8h-9i0j-1k2l3m4n5o6p",
+          "name": "Telegram Premium",
+          "link": "https://telegram.org/premium",
+          "logo": "https://telegram.org/img/t_logo.png"
+        },
+        {
+          "id": "2b3c4d5e-6f7g-8h9i-0j1k-2l3m4n5o6p7q",
+          "name": "X Premium",
+          "link": "https://twitter.com/x_premium",
+          "logo": "https://play-lh.googleusercontent.com/XyI6Hyz9AFg7E_joVzX2zh6CpWm9B2DG2JuEz5meCFVm4-wTKTnHgqbmg62iFKe4Gzca"
+        },
+        {
+          "id": "4d5e6f7g-8h9i-0j1k-2l3m-4n5o6p7q8r9s",
+          "name": "Discord Nitro",
+          "link": "https://discord.com/nitro",
+          "logo": "https://discord.com/assets/847541504914fd33810e70a0ea73177e.ico"
+        },
+        {
+          "id": "5e6f7g8h-9i0j-1k2l-3m4n-5o6p7q8r9s0t",
+          "name": "Reddit Premium",
+          "link": "https://www.reddit.com/premium",
+          "logo": "https://www.redditstatic.com/desktop2x/img/favicon/android-icon-192x192.png"
+        },
+        {
+          "id": "6f7g8h9i-0j1k-2l3m-4n5o-6p7q8r9s0t1u",
+          "name": "Tumblr Ad-Free",
+          "link": "https://www.tumblr.com/settings/upgrade",
+          "logo": "https://play-lh.googleusercontent.com/0H87fN5at8RFc_LrLEpPXKr1yqwh8CjHYd8IKWs6T1PTQKG1S5mQfPWQqYAKpOwxeTE"
+        },
+        {
+          "id": "7g8h9i0j-1k2l-3m4n-5o6p-7q8r9s0t1u2v",
+          "name": "Twitch Turbo",
+          "link": "https://www.twitch.tv/turbo",
+          "logo": "https://static.twitchcdn.net/assets/favicon-32-d6025c14e900565d6177.png"
+        },
+        {
+          "id": "8h9i0j1k-2l3m-4n5o-6p7q-8r9s0t1u2v3w",
+          "name": "VK Премиум",
+          "link": "https://vk.com/premium",
+          "logo": "https://play-lh.googleusercontent.com/mA08d5T98rFK24Vry2657xSEDa40LjQZDzNw7UXeR3pm6ghaPP7C-DR9VNl9n4zvXg"
+        },
+        {
+          "id": "9i0j1k2l-3m4n-5o6p-7q8r-9s0t1u2v3w4x",
+          "name": "Одноклассники Premium",
+          "link": "https://ok.ru/premium",
+          "logo": "https://play-lh.googleusercontent.com/uIUXw_YyfSyDq_mzmb_l4O6PBzwy1s7DPLk2Smd2qU06i0IkH4BmsU3G9m66EdKfkQFC"
+        },
+        {
+          "id": "0j1k2l3m-4n5o-6p7q-8r9s-0t1u2v3w4x5y",
+          "name": "Threads Premium",
+          "link": "https://www.threads.net/premium",
+          "logo": "https://static.cdninstagram.com/rsrc.php/v3/yG/r/De-Dwpd5CHc.png"
+        },
+        {
+          "id": "1k2l3m4n-5o6p-7q8r-9s0t-1u2v3w4x5y6z",
+          "name": "Clubhouse Premium",
+          "link": "https://www.clubhouse.com/premium",
+          "logo": "https://play-lh.googleusercontent.com/AQa5kjFAEk7uyYWhDmLzjuz3zMAVhF3853CRr0vmAboeA7KE4-HAWKZdx9OCmswz7Sir"
+        },
+        {
+          "id": "2l3m4n5o-6p7q-8r9s-0t1u-2v3w4x5y6z7a",
+          "name": "Mastodon Premium",
+          "link": "https://joinmastodon.org/premium",
+          "logo": "https://play-lh.googleusercontent.com/OMYfuiwLKDIiArUKsq-PQicPrHgxzmRtKB6vYVlt4JLtJGffuzcnT0lrBgs6P69PXJvp"
+        },
+        {
+          "id": "3m4n5o6p-7q8r-9s0t-1u2v-3w4x5y6z7a8b",
+          "name": "BeReal+",
+          "link": "https://bere.al/plus",
+          "logo": "https://play-lh.googleusercontent.com/8Lu1K0dDM8hFB3wlkUgUvOOw9hc7NRwVijiEPqeXZhzz7t2Q3jktTZ_aqT3kofwurG4"
+        },
+        {
+          "id": "4n5o6p7q-8r9s-0t1u-2v3w-4x5y6z7a8b9c",
+          "name": "WeChat Premium",
+          "link": "https://www.wechat.com/premium",
+          "logo": "https://www.wechat.com/favicon.ico"
+        },
+        {
+          "id": "5o6p7q8r-9s0t-1u2v-3w4x-5y6z7a8b9c0d",
+          "name": "Line Premium",
+          "link": "https://line.me/premium",
+          "logo": "https://line.me/favicon.ico"
+        },
+        {
+          "id": "6p7q8r9s-0t1u-2v3w-4x5y-6z7a8b9c0d1e",
+          "name": "Viber Premium",
+          "link": "https://www.viber.com/premium",
+          "logo": "https://play-lh.googleusercontent.com/BQ8XPdVBwHdQBZtJpokhEP-m6qKwx7ypWy_45e0yl5WU0caPlcKdg-maApDh06WsKRLC"
+        },
+        {
+          "id": "7q8r9s0t-1u2v-3w4x-5y6z-7a8b9c0d1e2f",
+          "name": "Snapchat+",
+          "link": "https://www.snapchat.com/plus",
+          "logo": "https://www.snapchat.com/favicon.ico"
+        },
+        {
+          "id": "8r9s0t1u-2v3w-4x5y-6z7a-8b9c0d1e2f3g",
+          "name": "Pinterest Premium",
+          "link": "https://www.pinterest.com/premium",
+          "logo": "https://s.pinimg.com/webapp/favicon-54a5b2af.png"
+        },
+        {
+          "id": "9s0t1u2v-3w4x-5y6z-7a8b-9c0d1e2f3g4h",
+          "name": "Strava Premium",
+          "link": "https://www.strava.com/premium",
+          "logo": "https://d3nn82uaxijpm6.cloudfront.net/favicon-16x16.png"
+        },
+        {
+          "id": "0t1u2v3w-4x5y-6z7a-8b9c-0d1e2f3g4h5i",
+          "name": "Meetup Pro",
+          "link": "https://www.meetup.com/pro",
+          "logo": "https://www.meetup.com/favicon.ico"
+        }
+      ]
+    },
+    {
+      "id": "a4bb9981-230c-4758-b86a-466c29c55e27",
+      "name": "Shopping",
+      "description": "Shopping subscriptions",
+      "image": "https://cdn-icons-png.flaticon.com/512/1164/1164954.png",
+      "subscriptions": [
+        {
+          "id": "1d2e3f4g-5h6i-7j8k-9l0m-1n2o3p4q5r6s",
+          "name": "Ozon Premium",
+          "link": "https://www.ozon.ru/premium",
+          "logo": "https://play-lh.googleusercontent.com/UwhiB7PpzOkj7P0D25jIgeqkBNSzWP7ycIcpTp_lOp3VBUequHxSr13GXZqIBBqOEhM"
+        },
+        {
+          "id": "2e3f4g5h-6i7j-8k9l-0m1n-2o3p4q5r6s7t",
+          "name": "Яндекс Маркет Плюс",
+          "link": "https://market.yandex.ru/plus",
+          "logo": "https://play-lh.googleusercontent.com/ifn8JmDsOG1LcJ_6bjhANUsQaqDwJ8tnscbismQQnbGaIM76mBjJB7BAooSWeyPjfdA"
+        },
+        {
+          "id": "3f4g5h6i-7j8k-9l0m-1n2o-3p4q5r6s7t8u",
+          "name": "Amazon Prime",
+          "link": "https://www.amazon.com/prime",
+          "logo": "https://www.amazon.com/favicon.ico"
+        },
+        {
+          "id": "4g5h6i7j-8k9l-0m1n-2o3p-4q5r6s7t8u9v",
+          "name": "Wildberries Premium",
+          "link": "https://www.wildberries.ru/premium",
+          "logo": "https://play-lh.googleusercontent.com/GsO7o_US7nplIPXogHkD_-Mi0VAbRR4VX5WFyMskG-jwl5OKXFGMgxNrrnFgNoJqhg"
+        },
+        {
+          "id": "5h6i7j8k-9l0m-1n2o-3p4q-5r6s7t8u9v0w",
+          "name": "AliExpress Premium",
+          "link": "https://aliexpress.ru/premium",
+          "logo": "https://ae01.alicdn.com/images/eng/wholesale/icon/aliexpress.ico"
+        },
+        {
+          "id": "6i7j8k9l-0m1n-2o3p-4q5r-6s7t8u9v0w1x",
+          "name": "Walmart+",
+          "link": "https://www.walmart.com/plus",
+          "logo": "https://www.walmart.com/favicon.ico"
+        },
+        {
+          "id": "7j8k9l0m-1n2o-3p4q-5r6s-7t8u9v0w1x2y",
+          "name": "Target Circle",
+          "link": "https://www.target.com/circle",
+          "logo": "https://play-lh.googleusercontent.com/zGPsbvjnofxvB1BM03NKI9N-0KHJk_rXLXSGikFmjFT63D78Z5otWEwJfqg7IWLZGtM"
+        },
+        {
+          "id": "8k9l0m1n-2o3p-4q5r-6s7t-8u9v0w1x2y3z",
+          "name": "Costco Executive",
+          "link": "https://www.costco.com/executive-membership",
+          "logo": "https://play-lh.googleusercontent.com/WIdPqETfzE7sfSQTElsQyHm-EDqh1v82xJkhBo9jil2-QP6dk8c3PjfVpvvLlpsHfhI"
+        },
+        {
+          "id": "9l0m1n2o-3p4q-5r6s-7t8u-9v0w1x2y3z4a",
+          "name": "Sam's Club Plus",
+          "link": "https://www.samsclub.com/plus",
+          "logo": "https://www.samsclub.com/favicon.ico"
+        },
+        {
+          "id": "0m1n2o3p-4q5r-6s7t-8u9v-0w1x2y3z4a5b",
+          "name": "Best Buy Totaltech",
+          "link": "https://www.bestbuy.com/totaltech",
+          "logo": "https://www.bestbuy.com/favicon.ico"
+        },
+        {
+          "id": "1n2o3p4q-5r6s-7t8u-9v0w-1x2y3z4a5b6c",
+          "name": "Home Depot Plus",
+          "link": "https://www.homedepot.com/plus",
+          "logo": "https://play-lh.googleusercontent.com/n-vPcnP-kTyZ5eH6QJkIvAhylJuU__wOZyfcJR3D3u2N1aChqfXEroE4KVSfNlGd2Hs"
+        },
+        {
+          "id": "2o3p4q5r-6s7t-8u9v-0w1x-2y3z4a5b6c7d",
+          "name": "IKEA Family Plus",
+          "link": "https://www.ikea.com/family-plus",
+          "logo": "https://www.ikea.com/favicon.ico"
+        },
+        {
+          "id": "3p4q5r6s-7t8u-9v0w-1x2y-3z4a5b6c7d8e",
+          "name": "Ebay Plus",
+          "link": "https://www.ebay.com/plus",
+          "logo": "https://www.ebay.com/favicon.ico"
+        },
+        {
+          "id": "4q5r6s7t-8u9v-0w1x-2y3z-4a5b6c7d8e9f",
+          "name": "Shopee Premium",
+          "link": "https://shopee.com/premium",
+          "logo": "https://shopee.com/favicon.ico"
+        },
+        {
+          "id": "5r6s7t8u-9v0w-1x2y-3z4a-5b6c7d8e9f0g",
+          "name": "Rakuten Premium",
+          "link": "https://www.rakuten.com/premium",
+          "logo": "https://play-lh.googleusercontent.com/-3iQgi1MJkgsihOYW8qYV3go11dvDbj_CnMfUdLyIWOscqFs7DdiUFSR36bdadFseWY"
+        },
+        {
+          "id": "6s7t8u9v-0w1x-2y3z-4a5b-6c7d8e9f0g1h",
+          "name": "Lazada Premium",
+          "link": "https://www.lazada.com/premium",
+          "logo": "https://play-lh.googleusercontent.com/b6XEbbyJABry-zy0aGHg0baR1FbMAQUu0GOIDSix0i4H0j4kgq8VwykJ1SvcV11f9jrQ"
+        },
+        {
+          "id": "7t8u9v0w-1x2y-3z4a-5b6c-7d8e9f0g1h2i",
+          "name": "JD Plus",
+          "link": "https://plus.jd.com",
+          "logo": "https://www.jd.com/favicon.ico"
+        },
+        {
+          "id": "8u9v0w1x-2y3z-4a5b-6c7d-8e9f0g1h2i3j",
+          "name": "Leroy Merlin Club",
+          "link": "https://leroymerlin.ru/club",
+          "logo": "https://play-lh.googleusercontent.com/qM6XSaKEP6L1EmHyyjBre2cJeKVIdweZfnHXaMUSDLZ2XuVRK1Tcyh6va0FjwfXr4cM"
+        },
+        {
+          "id": "9v0w1x2y-3z4a-5b6c-7d8e-9f0g1h2i3j4k",
+          "name": "DNS Premium",
+          "link": "https://www.dns-shop.ru/premium",
+          "logo": "https://www.dns-shop.ru/favicon.ico"
+        },
+        {
+          "id": "0w1x2y3z-4a5b-6c7d-8e9f-0g1h2i3j4k5l",
+          "name": "М.Видео Premium",
+          "link": "https://www.mvideo.ru/premium",
+          "logo": "https://play-lh.googleusercontent.com/eE9PMw3HQnyQ40et_AoW79QFOX7BCHNlwroyM-BHA6hO-JpDeKobuEqkE6Aq7i1yGDQ"
+        }
+      ]
+    },
+    {
+      "id": "599f1f1b-1066-4e28-bbbd-9a602b91fb28",
+      "name": "Transport & Travel",
+      "description": "Travel subscriptions",
+      "image": "https://cdn-icons-png.flaticon.com/512/1164/1164954.png",
+      "subscriptions": [
+        {
+          "id": "1a2b3c4d-5e6f-7g8h-9i0j-1k2l3m4n5o6p",
+          "name": "Аэрофлот Бонус",
+          "link": "https://www.aeroflot.ru/bonus",
+          "logo": "https://cdn6.aptoide.com/imgs/3/4/2/342fad90efd75a867853074052615ec9_icon.png"
+        },
+        {
+          "id": "2b3c4d5e-6f7g-8h9i-0j1k-2l3m4n5o6p7q",
+          "name": "S7 Priority",
+          "link": "https://www.s7.ru/priority",
+          "logo": "https://www.s7.ru/favicon.ico"
+        },
+        {
+          "id": "3c4d5e6f-7g8h-9i0j-1k2l-3m4n5o6p7q8r",
+          "name": "РЖД Бонус",
+          "link": "https://bonus.rzd.ru",
+          "logo": "https://play-lh.googleusercontent.com/Z1ORF9GP1zBDpPqtcY7ccCiqgavio8V5dOsbSWi-7FyTU_MOP6niKd8yPe--On8XOWE"
+        },
+        {
+          "id": "4d5e6f7g-8h9i-0j1k-2l3m-4n5o6p7q8r9s",
+          "name": "Яндекс Go Pro",
+          "link": "https://go.yandex/pro",
+          "logo": "https://play-lh.googleusercontent.com/Nl40jSYKgzTddyLnQBFaNjSIInrIX5f6gQnOzDMS_LcYP6Y6I3274TxcCCIoKqShFN4"
+        },
+        {
+          "id": "5e6f7g8h-9i0j-1k2l-3m4n-5o6p7q8r9s0t",
+          "name": "Uber One",
+          "link": "https://www.uber.com/one",
+          "logo": "https://www.uber.com/favicon.ico"
+        },
+        {
+          "id": "6f7g8h9i-0j1k-2l3m-4n5o-6p7q8r9s0t1u",
+          "name": "Emirates Skywards",
+          "link": "https://www.emirates.com/skywards",
+          "logo": "https://www.emirates.com/favicon.ico"
+        },
+        {
+          "id": "7g8h9i0j-1k2l-3m4n-5o6p-7q8r9s0t1u2v",
+          "name": "Booking.com Genius",
+          "link": "https://www.booking.com/genius",
+          "logo": "https://play-lh.googleusercontent.com/OSr8skhGVmspz4WJQgjGcaFy1OkIJrd_Afr_X6a9Z4tAAtq4bDdOmxlCbSznf0UFxnai"
+        },
+        {
+          "id": "8h9i0j1k-2l3m-4n5o-6p7q-8r9s0t1u2v3w",
+          "name": "Airbnb Plus",
+          "link": "https://www.airbnb.com/plus",
+          "logo": "https://www.airbnb.com/favicon.ico"
+        },
+        {
+          "id": "9i0j1k2l-3m4n-5o6p-7q8r-9s0t1u2v3w4x",
+          "name": "Turkish Airlines Miles&Smiles",
+          "link": "https://www.turkishairlines.com/miles-and-smiles",
+          "logo": "https://www.turkishairlines.com/favicon.ico"
+        },
+        {
+          "id": "0j1k2l3m-4n5o-6p7q-8r9s-0t1u2v3w4x5y",
+          "name": "Lufthansa Miles & More",
+          "link": "https://www.lufthansa.com/miles-and-more",
+          "logo": "https://play-lh.googleusercontent.com/uz9L8UcD9vlzWAt2IM4MEqltLEha7ijbxnn6K0qK5wB0FYJSF2AD8pv6AtyMIpCaOA"
+        },
+        {
+          "id": "1k2l3m4n-5o6p-7q8r-9s0t-1u2v3w4x5y6z",
+          "name": "British Airways Executive Club",
+          "link": "https://www.britishairways.com/executive-club",
+          "logo": "https://www.britishairways.com/favicon.ico"
+        },
+        {
+          "id": "2l3m4n5o-6p7q-8r9s-0t1u-2v3w4x5y6z7a",
+          "name": "Expedia Rewards",
+          "link": "https://www.expedia.com/rewards",
+          "logo": "https://www.expedia.com/favicon.ico"
+        },
+        {
+          "id": "3m4n5o6p-7q8r-9s0t-1u2v-3w4x5y6z7a8b",
+          "name": "Hotels.com Rewards",
+          "link": "https://www.hotels.com/rewards",
+          "logo": "https://www.hotels.com/favicon.ico"
+        },
+        {
+          "id": "4n5o6p7q-8r9s-0t1u-2v3w-4x5y6z7a8b9c",
+          "name": "Agoda VIP",
+          "link": "https://www.agoda.com/vip",
+          "logo": "https://www.agoda.com/favicon.ico"
+        },
+        {
+          "id": "5o6p7q8r-9s0t-1u2v-3w4x-5y6z7a8b9c0d",
+          "name": "Qatar Airways Privilege Club",
+          "link": "https://www.qatarairways.com/privilegeclub",
+          "logo": "https://play-lh.googleusercontent.com/44id6NyXipQ_H9H2bwFT5ScalHKwfU1OJc_4osf_pjqImnY2kZnKGSKMUCYxUlh2T5Ww"
+        },
+        {
+          "id": "6p7q8r9s-0t1u-2v3w-4x5y-6z7a8b9c0d1e",
+          "name": "Etihad Guest",
+          "link": "https://www.etihad.com/guest",
+          "logo": "https://www.etihad.com/favicon.ico"
+        },
+        {
+          "id": "7q8r9s0t-1u2v-3w4x-5y6z-7a8b9c0d1e2f",
+          "name": "Citymapper Plus",
+          "link": "https://citymapper.com/plus",
+          "logo": "https://citymapper.com/favicon.ico"
+        },
+        {
+          "id": "8r9s0t1u-2v3w-4x5y-6z7a-8b9c0d1e2f3g",
+          "name": "BlaBlaCar Plus",
+          "link": "https://www.blablacar.com/plus",
+          "logo": "https://www.blablacar.com/favicon.ico"
+        },
+        {
+          "id": "9s0t1u2v-3w4x-5y6z-7a8b-9c0d1e2f3g4h",
+          "name": "Bolt Premium",
+          "link": "https://bolt.eu/premium",
+          "logo": "https://bolt.eu/favicon.ico"
+        },
+        {
+          "id": "0t1u2v3w-4x5y-6z7a-8b9c-0d1e2f3g4h5i",
+          "name": "GetTransfer VIP",
+          "link": "https://gettransfer.com/vip",
+          "logo": "https://gettransfer.com/favicon.ico"
+        },
+        {
+          "id": "1u2v3w4x-5y6z-7a8b-9c0d-1e2f3g4h5i6j",
+          "name": "KAYAK Premium",
+          "link": "https://www.kayak.com/premium",
+          "logo": "https://www.kayak.com/favicon.ico"
+        },
+        {
+          "id": "2v3w4x5y-6z7a-8b9c-0d1e-2f3g4h5i6j7k",
+          "name": "Skyscanner Plus",
+          "link": "https://www.skyscanner.com/plus",
+          "logo": "https://www.skyscanner.com/favicon.ico"
+        },
+        {
+          "id": "3w4x5y6z-7a8b-9c0d-1e2f-3g4h5i6j7k8l",
+          "name": "Tripadvisor Plus",
+          "link": "https://www.tripadvisor.com/plus",
+          "logo": "https://www.tripadvisor.com/favicon.ico"
+        },
+        {
+          "id": "4x5y6z7a-8b9c-0d1e-2f3g-4h5i6j7k8l9m",
+          "name": "Trainline Premium",
+          "link": "https://www.thetrainline.com/premium",
+          "logo": "https://play-lh.googleusercontent.com/01DZthgdocCF5tYXt3MxpV_zTxXV1CST6U9Fbsr9SXygqw7dD42YjlZMAxUO6N4-VZI"
+        }
+      ]
+    },
+    {
+      "id": "cd52df0a-ab07-473c-a753-34d37aa76dfa",
+      "name": "Other",
+      "description": "Other categories subscriptions",
+      "image": "https://cdn-icons-png.flaticon.com/512/1164/1164954.png",
+      "subscriptions": []
+    }
+  ]
+}
