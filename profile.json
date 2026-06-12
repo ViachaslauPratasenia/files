@@ -77,11 +77,19 @@
         },
         {
           "name": "App Store",
-          "url": "https://apps.apple.com/app/7-vpn-fast-and-secure-proxy/id6444400604"
+          "url": "https://apps.apple.com/us/app/sevenvpn-secure-fast-vpn/id6754178358"
         },
         {
           "name": "Snap Store",
           "url": "https://snapcraft.io/7vpn"
+        },
+        {
+          "name": "MegaX Cleaner",
+          "url": "https://apps.apple.com/us/app/megax-cleaner/id6756263381"
+        },
+        {
+          "name": "Diskra Cleaner",
+          "url": "https://apps.apple.com/us/app/diskra-cleaner/id6759801580"
         }
       ]
     },
@@ -147,7 +155,7 @@
       "image": "https://raw.githubusercontent.com/ViachaslauPratasenia/files/main/project_images/never_have_i_ever_2.png",
       "description": "Never Have I Ever is a mobile app that allows you to play the popular party game with your friends, more than 10 categories, 2000+ questions. The app was created using Flutter and is available on Google Play.",
       "link_name": "Google Play",
-      "link": "https://play.google.com/store/apps/details?id=com.icandev.neverever",
+      "link": "https://apkpure.com/ru/never-have-i-ever-18/com.icandev.neverever",
       "tags": [
         "Flutter",
         "Dart",
