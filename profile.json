@@ -1,20 +1,21 @@
 {
   "name": "Viachaslau Pratasenia",
   "email": "viachaslau.pratasenia@gmail.com",
-  "subtitle": "I build things with Flutter and lead teams to create amazing products.",
+  "subtitle": "I build apps with Flutter and lead a small team that ships them.",
   "about_me": {
-    "title": "A highly skilled Flutter developer and Mobile Team Lead with over 7 years in the technology industry.",
-    "text": "My extensive knowledge and expertise in Flutter development make me a strong fit for any project in this field. I have a solid foundation in Android development, which I built upon to create accessible and user-focused apps for Android, iOS, web, and desktop using Flutter.\n\nToday I lead a mobile development team, guiding and mentoring developers while ensuring project success and team growth. My experience developing Android apps has greatly influenced my approach to Flutter projects: I create functional, intuitive solutions that enhance the user experience while fostering a collaborative environment focused on both technical excellence and people.\n\nAt Aventus IT, I focus on making easy-to-use apps for Android, iOS, web, and desktop while guiding the team to ship them well. My goal is to build applications that are straightforward and enjoyable for everyone, using Flutter to create innovative and accessible solutions that keep up with the latest technology trends."
+    "title": "Flutter developer and Mobile Team Lead, 7+ years in the industry.",
+    "text": "I started out writing Android apps, and that background still shapes how I work — I care about apps that feel fast, make sense, and don't get in the user's way. These days I build with Flutter across Android, iOS, web, and desktop from one codebase.\n\nNow I lead a mobile team. A lot of that job is the unglamorous part: planning, one-on-ones, code reviews, keeping people unblocked. I also write code every day, so I stay close to the problems the team actually hits.\n\nAI has become a normal part of how we work. I use AI assistants daily to move faster on the boring parts of development, and I build automation with n8n and AI agents to take repetitive work off our plates. On the quality side, I set up end-to-end testing with Patrol so our Flutter apps get tested the way a real user would tap through them — not just in isolated unit tests.\n\nAt Aventus IT I focus on shipping apps that are genuinely easy to use, and on keeping the team in good shape to keep shipping them."
   },
   "contact_me": {
-    "title": "Although I'm not currently looking, my inbox is always open — say hello.",
-    "text": "Whether you have a question or just want to say hi, I'll try my best to get back to you!"
+    "title": "Not actively looking, but the inbox is always open.",
+    "text": "Got a question, an idea, or just want to say hi? Drop me a line — I read everything and try to reply."
   },
   "recent_technologies": [
     "Flutter",
     "Dart",
-    "JavaScript",
-    "n8n as Backend",
+    "AI agents",
+    "n8n automation",
+    "Patrol (E2E)",
     "Stripe",
     "RevenueCat"
   ],
@@ -28,14 +29,15 @@
     "recently": [
       "Flutter",
       "Dart",
-      "JavaScript",
-      "n8n as Backend",
+      "AI agents",
+      "n8n automation",
+      "Patrol (E2E testing)",
       "Stripe",
       "RevenueCat"
     ],
     "platforms": ["iOS", "Android", "Web", "Windows", "macOS", "Linux"],
-    "tooling": ["Xcode", "Android Studio", "Figma", "Firebase", "GCP"],
-    "services": ["Mobile Applications", "Web Development", "CRM Systems", "E-commerce Solutions", "Desktop Applications", "UI/UX Design"]
+    "tooling": ["Xcode", "Android Studio", "Figma", "Firebase", "GCP", "Patrol", "n8n"],
+    "services": ["Mobile Applications", "Web Development", "AI Automation", "CRM Systems", "E-commerce Solutions", "Desktop Applications", "UI/UX Design"]
   },
   "social_links": [
     {
@@ -64,7 +66,7 @@
       "title": "Flutter Developer / Mobile Team Lead",
       "company_name": "Aventus IT",
       "company_link": "https://aventusit.eu/",
-      "description": "As a Mobile Team Lead on an e-commerce project and a Developer at 7VPN, I play a key role in a three-person development team, shipping across iOS, macOS, Windows, and Web.\n\nI run technical calls, one-on-ones, standups and retrospectives, own planning and documentation, and built the personal account website, social login and news functionality. My technical contributions also include integrating deep links, working with notifications, and creating build environments.\n\nTools: Xcode, Android Studio, Figma, Firebase, Google Cloud Platform.",
+      "description": "I lead a three-person mobile team on an e-commerce project and also develop 7VPN, shipping across iOS, macOS, Windows, and Web.\n\nThe lead part of the job: technical calls, one-on-ones, standups, retros, planning, and docs. On the build side I shipped the personal account website, social login, and the news feature, plus deep links, push notifications, and the build environments the team relies on.\n\nLately I've leaned into two things. First, end-to-end testing with Patrol, so our Flutter apps are tested through real user flows across platforms instead of unit tests alone. Second, AI in our workflow — AI assistants for day-to-day development and n8n with AI agents to automate the repetitive work around the team.\n\nTools: Xcode, Android Studio, Figma, Firebase, Google Cloud Platform, Patrol, n8n.",
       "work_period": "September 2022 - Present",
       "links": [
         {
@@ -97,7 +99,7 @@
       "title": "Flutter Developer",
       "company_name": "Symfa",
       "company_link": "https://symfa.com/",
-      "description": "At Symfa, I served as a crucial contributor to both our dating app and corporate chat service, akin to Slack. My role provided me a dynamic experience, from integrating Redux to adopting null safety and migrating to updated Flutter versions.\n\nBeyond coding, my responsibilities also covered the entire spectrum of app publishing. I communicated actively with Google Play and App Store teams to troubleshoot issues and bugs, ensuring a seamless user experience post-launch.\n\nTools: Xcode, Android Studio, Figma, Firebase.",
+      "description": "At Symfa I worked on two products: a dating app and a corporate chat in the spirit of Slack. The work spanned a lot of ground — wiring up Redux, moving the codebase to null safety, and keeping up with new Flutter releases.\n\nI also handled the publishing side end to end. When Google Play or the App Store flagged something, I was the one going back and forth with their review teams to sort it out and get users a fix.\n\nTools: Xcode, Android Studio, Figma, Firebase.",
       "work_period": "September 2021 - September 2022",
       "links": [
         {
@@ -114,7 +116,7 @@
       "title": "Android/Flutter Developer",
       "company_name": "Heapix",
       "company_link": "https://heapix.com/",
-      "description": "At Heapix, I functioned as an Android/Flutter developer and was involved in a diverse range of projects, including food delivery apps and smart home control systems. My role extended beyond coding, as I initiated applications from the ground up.\n\nIn collaboration with development, design, and management teams, I honed my skills in customer communication and even gathered experience in project management.\n\nTools: Android Studio, Figma, Firebase, Adobe Illustrator.",
+      "description": "At Heapix I worked as an Android/Flutter developer across a pretty mixed bag of projects — food delivery, smart home control, a few others. Several of them I started from an empty repo.\n\nWorking closely with design and management taught me as much as the code did: how to talk to clients, scope things realistically, and pick up the project-management side along the way.\n\nTools: Android Studio, Figma, Firebase, Adobe Illustrator.",
       "work_period": "April 2019 - September 2021",
       "links": [
         {
@@ -140,7 +142,7 @@
     {
       "title": "Personal Website",
       "image": "https://raw.githubusercontent.com/ViachaslauPratasenia/files/main/project_images/personal_website.png",
-      "description": "This personal website created with Flutter and hosted on GitHub Pages. It's designed to be clean and user-friendly. You can view the source code on GitHub to see how it was built and maybe even contribute. This site demonstrates how versatile Flutter can be for web projects.",
+      "description": "This site, built with Flutter and hosted on GitHub Pages. I kept it clean and simple on purpose. The source is public, so you can dig into how it's put together — and it's a decent example of Flutter holding its own on the web.",
       "link_name": "Source Code",
       "link": "https://github.com/ViachaslauPratasenia/ViachaslauPratasenia.github.io",
       "tags": [
@@ -153,7 +155,7 @@
     {
       "title": "Never Have I Ever",
       "image": "https://raw.githubusercontent.com/ViachaslauPratasenia/files/main/project_images/never_have_i_ever_2.png",
-      "description": "Never Have I Ever is a mobile app that allows you to play the popular party game with your friends, more than 10 categories, 2000+ questions. The app was created using Flutter and is available on Google Play.",
+      "description": "A mobile take on the party game — 10+ categories and 2000+ questions to play through with friends. Built with Flutter and published on Google Play.",
       "link_name": "Google Play",
       "link": "https://apkpure.com/ru/never-have-i-ever-18/com.icandev.neverever",
       "tags": [
@@ -165,7 +167,7 @@
     {
       "title": "Workout Tracker App Design",
       "image": "https://raw.githubusercontent.com/ViachaslauPratasenia/files/main/project_images/workout_tracker_2.png",
-      "description": "This workout tracker app design, made in Figma, combines easy navigation with a sleek look to help users track their fitness journey effortlessly. The focus is on simplicity, making sure users can quickly log workouts and see their progress.",
+      "description": "A workout tracker concept I designed in Figma. The whole idea was to keep it simple — log a workout fast, glance at your progress, get out. Clean look, no clutter.",
       "link_name": "Figma",
       "link": "https://www.figma.com/file/nlUegZYGyPiYshRSja5614/Workout-tracker?type=design&node-id=2%3A2&mode=design&t=ldBf5YuhBrCMd7AE-1",
       "tags": [
@@ -178,7 +180,7 @@
   "blog_posts": [
     {
       "title": "The Easiest Way to Use Environments in Flutter",
-      "description": "In this article, we'll explore how to use environment variables in your projects without needing extra libraries. Environment variables help keep your settings secure and make your code easier to update.",
+      "description": "How to handle environment variables in Flutter without pulling in extra libraries — keeping config out of your code and easy to change.",
       "link": "https://medium.com/@viachaslau.pratasenia/the-easiest-way-to-use-environments-in-flutter-fa7b2cf0ed8d",
       "date": "December 12, 2023",
       "tags": [
@@ -190,7 +192,7 @@
     },
     {
       "title": "Styling Flutter Apps Made Easy with Google Fonts",
-      "description": "Learn how to quickly improve your Flutter apps look with Google Fonts. This article will show you how to pick and use different fonts easily, making your apps more stylish with little effort.",
+      "description": "A quick walkthrough of using Google Fonts in Flutter — picking and swapping fonts with almost no effort to give your app a bit more character.",
       "link": "https://medium.com/@viachaslau.pratasenia/styling-flutter-apps-made-easy-with-google-fonts-21b2e4a61a49",
       "date": "December 26, 2023",
       "tags": [
@@ -203,7 +205,7 @@
     },
     {
       "title": "Flutter Version Management: A Comprehensive Guide",
-      "description": "This guide covers Flutter Version Management (FVM), a tool for efficiently handling multiple Flutter SDKs. It simplifies SDK installation, version switching and project consistency.",
+      "description": "A practical guide to FVM for juggling multiple Flutter SDKs — installing versions, switching between them, and keeping projects consistent.",
       "link": "https://medium.com/@viachaslau.pratasenia/flutter-version-management-a-comprehensive-guide-fe9db1557b0e",
       "date": "March 19, 2024",
       "tags": [
